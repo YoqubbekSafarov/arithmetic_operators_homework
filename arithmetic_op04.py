@@ -3,7 +3,7 @@ number=234
 number1=number%10
 number=number//10
 number2=number%10
-number3//10
+number3=number//10
 #Find the 'number' first digit and assign to x1.
 x1=number3
 #Find the 'number' second digit and assign to x2.
